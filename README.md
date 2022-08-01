@@ -27,9 +27,9 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Built With](#built-with)
-- [Features](#features)
-- [Contact](#contact)
+  - [Built With](#HTML, Saas)
+- [Features](#responsive landing page)
+- [Contact](#mondayitohowo3@gmail.com)
 - [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->

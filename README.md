@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://err404page.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://err404page.netlify.app/">
       Solution
     </a>
     <span> | </span>
@@ -27,31 +27,31 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Built With](#HTML, Saas)
-- [Features](#responsive landing page)
-- [Contact](#mondayitohowo3@gmail.com)
-- [Acknowledgements](#acknowledgements)
+  - [Built With]
+- [Features]
+- [Contact]
+- [Acknowledgements]
 
 <!-- OVERVIEW -->
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](./404image.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- The 404 error project is a responsive error page inspired by devchallenge.io 
+- It took me almost 48 hours to get it done , i used the sass for responsiveness. so its basicly a styling project
+- my media query knowledge has improved , like wise my responsive design knowledge like mobile first design makes media query easier 
+
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics
+- [SASS](https://sass-lang.com/)
+
 
 ## Features
 
@@ -65,11 +65,8 @@ This application/site was created as a submission to a [DevChallenges](https://d
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub [@techrook](https://{github.com/techrook})
+- Twitter [@itohowo23](https://{twitter.com/itohowo23})

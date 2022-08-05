@@ -42,10 +42,10 @@ h5{
 h3{
    font-size: 50px;
    font-family: monospace;
-   margin-bottom: 5px;
+   margin-bottom: 10px;
 
    span{
-    font-size: 50px;
+    font-size: 40px;
    }
 }
 
@@ -54,6 +54,10 @@ p{
     font-family: serif;
     font-size: 20px;
     margin-bottom: 15px;
+
+    @include media-md{
+        width: 50%;
+    }
 }
 
 

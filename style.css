@@ -1,0 +1,86 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+@media screen and (min-width: 1024px) {
+  h5 {
+    margin: 30px;
+  }
+  .body-section {
+    display: flex;
+    flex-direction: row;
+  }
+}
+body {
+  height: 100vh;
+  width: auto;
+}
+
+h5 {
+  margin: 22px;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.body-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+}
+@media screen and (min-width: 768px) {
+  .body-section {
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+  }
+}
+.body-section img {
+  margin: 20px;
+  height: 70%;
+  width: 75%;
+}
+@media screen and (min-width: 768px) {
+  .body-section img {
+    height: 40%;
+    width: 40%;
+  }
+}
+
+.body-content {
+  width: 100%;
+  height: 100%;
+  padding-left: 20px;
+}
+.body-content h3 {
+  margin-bottom: 10px;
+  font-family: monospace;
+  font-size: 60px;
+}
+.body-content p {
+  padding-top: 10px;
+  text-align: left;
+  font-family: serif;
+  font-size: 20px;
+  width: 50%;
+}
+.body-content button {
+  margin-top: 30px;
+  background: black;
+  color: #fff;
+  height: 60px;
+  width: 200px;
+}
+
+footer {
+  text-align: center;
+  text-shadow: 10px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;
+}/*# sourceMappingURL=style.css.map */
